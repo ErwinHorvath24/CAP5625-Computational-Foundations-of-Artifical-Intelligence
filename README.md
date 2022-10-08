@@ -13,13 +13,23 @@ By the end of the course, students will be able to:
   
 ## Course Topical Outline
   Topic 1: Introduction
+  
   Topic 2: Introduction to regression
+  
   Topic 3: Linear and non-linear regression and model selection
+  
   Topic 4: Feature selection and regularization
+  
   Topic 5: Advanced regularization techniques
+  
   Topic 6: Discriminant analysis
+  
   Topic 7: Logistic regression
+  
   Topic 8: Support vector machines
+  
   Topic 9: Neural networks
+  
   Topic 10: Random forests and boosting
+  
   Topic 11: Unsupervised learning
